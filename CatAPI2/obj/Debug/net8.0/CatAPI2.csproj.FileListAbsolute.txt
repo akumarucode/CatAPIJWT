@@ -136,3 +136,4 @@ C:\Users\pc\source\repos\CatAPI2\CatAPI2\obj\Debug\net8.0\CatAPI2.pdb
 C:\Users\pc\source\repos\CatAPI2\CatAPI2\obj\Debug\net8.0\CatAPI2.genruntimeconfig.cache
 C:\Users\pc\source\repos\CatAPI2\CatAPI2\obj\Debug\net8.0\ref\CatAPI2.dll
 C:\Users\pc\source\repos\CatAPI2\CatAPI2\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\pc\source\repos\CatAPI2\CatAPI2\obj\Debug\net8.0\CatAPI2.sourcelink.json

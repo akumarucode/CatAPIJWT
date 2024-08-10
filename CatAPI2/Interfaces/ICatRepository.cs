@@ -13,5 +13,9 @@ namespace CatAPI2.Interfaces
         bool CreateCat (int ownerId, int breedId ,Cat cat);
 
         bool Save();
+
+        bool UpdateCat(int ownerId,int breedId,Cat cat);
+
+        bool DeleteCat(Cat cat);
     }
 }

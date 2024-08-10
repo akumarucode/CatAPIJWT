@@ -16,8 +16,10 @@ namespace CatAPI2.Helper
             CreateMap<CatDto, Cat>();
 
             CreateMap<Country, CountryDto>();
+            CreateMap<CountryDto, Country>();
 
             CreateMap<Owner, OwnerDto>();
+            CreateMap<OwnerDto, Owner>();
         }
     }
 }

@@ -11,6 +11,14 @@ namespace CatAPI2.Interfaces
         bool CountryExists(int id);
 
         ICollection<Owner> GetOwnersByCountry(int countryId);
+
+        bool CreateCountry(Country country);
+
+        bool Save();
+
+        bool DeleteCountry(Country country);
+
+        bool UpdateCountry(Country country);
     }
 }
 

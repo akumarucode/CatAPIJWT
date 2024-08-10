@@ -18,6 +18,25 @@ namespace CatAPI2.Repository
             return _context.Countries.Any(b => b.Id == id);
         }
 
+        public bool CreateCountry(Country country)
+        {
+            var countryDetails = new Country()
+            {
+                Name = country.Name,
+
+            };
+
+            _context.Add(countryDetails);
+
+            return Save();
+        }
+
+        public bool DeleteCountry(Country country)
+        {
+            _context.Remove(country);
+            return Save();
+        }
+
         public ICollection<Country> GetCountries()
         {
             return _context.Countries.OrderBy(b => b.Id).ToList();
@@ -31,6 +50,18 @@ namespace CatAPI2.Repository
         public ICollection<Owner> GetOwnersByCountry(int countryId)
         {
             return _context.Owners.Where(p => p.country.Id == countryId).ToList();
+        }
+
+        public bool Save()
+        {
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
+        }
+
+        public bool UpdateCountry(Country country)
+        {
+            _context.Update(country);
+            return Save();
         }
     }
 }

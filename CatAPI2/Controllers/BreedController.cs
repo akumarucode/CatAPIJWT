@@ -164,6 +164,7 @@ namespace CatAPI2.Controllers
         [ProducesResponseType(404)]
         public IActionResult UpdateBreed(int breedId, [FromBody] BreedDto updatedBreed)
         {
+
             if (updatedBreed == null)
                 return BadRequest(ModelState);
 

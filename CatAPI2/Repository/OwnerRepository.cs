@@ -1,6 +1,7 @@
 ﻿using CatAPI2.Data;
 using CatAPI2.Interfaces;
 using CatAPI2.Models;
+using System.Diagnostics.Metrics;
 
 namespace CatAPI2.Repository
 {
@@ -13,6 +14,28 @@ namespace CatAPI2.Repository
         {
             _context = context;
 
+        }
+
+        public bool CreateOwner(int countryId, Owner owner)
+        {
+            var ownerCountry = _context.Countries.Where(a => a.Id == countryId).FirstOrDefault();
+
+            var ownerDetails = new Owner()
+            {
+                Name = owner.Name,
+                country = ownerCountry,
+
+            };
+
+            _context.Add(ownerDetails);
+
+            return Save();
+        }
+
+        public bool DeleteOwner(Owner owner)
+        {
+            _context.Remove(owner);
+            return Save();
         }
 
         public ICollection<Cat> GetCatsByOwner(int ownerId)
@@ -33,6 +56,18 @@ namespace CatAPI2.Repository
         public bool OwnerExists(int id)
         {
             return _context.Owners.Any(b => b.Id == id);
+        }
+
+        public bool Save()
+        {
+            var saved = _context.SaveChanges();
+            return saved > 0 ? true : false;
+        }
+
+        public bool UpdateOwner(Owner owner)
+        {
+            _context.Update(owner);
+            return Save();
         }
     }
 }

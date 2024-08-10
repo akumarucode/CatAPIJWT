@@ -40,6 +40,12 @@ namespace CatAPI2.Repository
             return Save();
         }
 
+        public bool DeleteCat(Cat cat)
+        {
+            _context.Remove(cat);
+            return Save();
+        }
+
         public Cat GetCat(int id)
         {
             return _context.Cats.Where(b => b.Id == id).FirstOrDefault();
@@ -54,6 +60,23 @@ namespace CatAPI2.Repository
         {
             var saved  = _context.SaveChanges();
             return saved > 0 ? true : false;
+        }
+
+        public bool UpdateCat(int ownerId , int breedId ,Cat cat)
+        {
+            var catOwner = _context.Owners.Where(a => a.Id == ownerId).FirstOrDefault();
+            var catBreed = _context.Breeds.Where(a => a.Id == breedId).FirstOrDefault();
+            var catDetails = new Cat()
+            {
+                Id = cat.Id,
+                Name = cat.Name,
+                Age = cat.Age,
+                Owner = catOwner,
+                breed = catBreed,
+            };
+
+            _context.Update(catDetails);
+            return Save();
         }
     }
 }

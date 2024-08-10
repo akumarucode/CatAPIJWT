@@ -11,5 +11,13 @@ namespace CatAPI2.Interfaces
         bool OwnerExists(int id);
 
         ICollection<Cat> GetCatsByOwner(int ownerId);
+
+        bool CreateOwner(int countryId, Owner owner);
+
+        bool Save();
+
+        bool DeleteOwner(Owner owner);
+
+        bool UpdateOwner(Owner owner);
     }
 }
