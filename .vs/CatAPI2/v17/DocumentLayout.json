@@ -1,114 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CatAPI2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\iownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\repository\\ownerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\repository\\catrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\repository\\catrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\repository\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\controllers\\breedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\controllers\\breedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\breedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\repository\\breedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\repository\\breedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\interfaces\\ibreedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\ibreedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\catapi2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\catapi2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\icatrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\dto\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\breeddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\ownerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\migrations\\20240723143414_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\migrations\\20240723143414_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2\\catapi2\\catapi2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\catapi2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\interfaces\\ibreedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\ibreedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\dto\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\dto\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\dto\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\dto\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\catapi2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\catapi2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|c:\\users\\pc\\source\\repos\\catapi2 \u002B login\\catapi\\catapi2\\migrations\\20240814173446_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5D54BC-4226-4474-B8F3-4FE312C470F9}|CatAPI2\\CatAPI2.csproj|solutionrelative:catapi2\\migrations\\20240814173446_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,356 +98,292 @@
       "DocumentGroups": [
         {
           "DockedWidth": 447,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OwnerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\OwnerRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Repository\\OwnerRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\OwnerRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Repository\\OwnerRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAEwBkAAAAnAAAA",
+              "DocumentIndex": 1,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CatAPI2\\Controllers\\CountryController.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAwwIoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:31:34.717Z",
+              "WhenOpened": "2024-08-18T12:56:58.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IOwnerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\IOwnerRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\IOwnerRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\IOwnerRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Interfaces\\IOwnerRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "CatAPI2\\Controllers\\OwnerController.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAswIsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:30:55.143Z",
+              "WhenOpened": "2024-08-18T12:56:12.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OwnerController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\OwnerController.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\OwnerController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\OwnerController.cs",
-              "RelativeToolTip": "CatAPI2\\Controllers\\OwnerController.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFIAAAApAAAA",
+              "DocumentIndex": 7,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Service\\TokenService.cs",
+              "RelativeToolTip": "CatAPI2\\Service\\TokenService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wCwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:34:03.271Z",
+              "WhenOpened": "2024-08-14T15:56:39.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreedController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\BreedController.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\BreedController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\BreedController.cs",
+              "RelativeToolTip": "CatAPI2\\Controllers\\BreedController.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAnwKgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:33:35.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CatAPI2\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAApwDwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:33:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\CatController.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\CatController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Controllers\\CatController.cs",
+              "RelativeToolTip": "CatAPI2\\Controllers\\CatController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:37:53.219Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ICountryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\ICountryRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\ICountryRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\ICountryRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Interfaces\\ICountryRepository.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAApwA4AAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Program.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Program.cs",
+              "RelativeToolTip": "CatAPI2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:30:37.947Z",
+              "WhenOpened": "2024-08-12T14:47:09.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Helper\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Helper\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Helper\\MappingProfiles.cs",
-              "RelativeToolTip": "CatAPI2\\Helper\\MappingProfiles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:57:33.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BreedController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\BreedController.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\BreedController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\BreedController.cs",
-              "RelativeToolTip": "CatAPI2\\Controllers\\BreedController.cs",
-              "ViewState": "AQIAAK4AAAAAAAAAAAAAALwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:36:13.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BreedRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\BreedRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Repository\\BreedRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\BreedRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Repository\\BreedRepository.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:32:08.206Z",
+              "Title": "CatAPI2.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\CatAPI2.csproj",
+              "RelativeDocumentMoniker": "CatAPI2\\CatAPI2.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\CatAPI2.csproj",
+              "RelativeToolTip": "CatAPI2\\CatAPI2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-14T15:56:14.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "IBreedRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\IBreedRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\IBreedRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\IBreedRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Interfaces\\IBreedRepository.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wBkAAAAIAAAA",
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "CatAPI2\\Interfaces\\ITokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:30:24.915Z",
+              "WhenOpened": "2024-08-12T14:39:07.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Data\\DataContext.cs",
+              "RelativeToolTip": "CatAPI2\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:59:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\appsettings.json",
+              "RelativeDocumentMoniker": "CatAPI2\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\appsettings.json",
+              "RelativeToolTip": "CatAPI2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T16:22:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBreedRepository.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Interfaces\\IBreedRepository.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\IBreedRepository.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Interfaces\\IBreedRepository.cs",
+              "RelativeToolTip": "CatAPI2\\Interfaces\\IBreedRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:28:02.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Country.cs",
-              "RelativeToolTip": "CatAPI2\\Models\\Country.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Dto\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "CatAPI2\\Dto\\Account\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:00:54.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BreedDto.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\BreedDto.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Dto\\BreedDto.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\BreedDto.cs",
-              "RelativeToolTip": "CatAPI2\\Dto\\BreedDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-24T13:50:09.056Z",
+              "WhenOpened": "2024-08-12T14:57:09.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Cat.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Models\\Cat.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Cat.cs",
-              "RelativeToolTip": "CatAPI2\\Models\\Cat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Dto\\Account\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\NewUserDto.cs",
+              "RelativeToolTip": "CatAPI2\\Dto\\Account\\NewUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:00:01.82Z",
+              "WhenOpened": "2024-08-12T14:41:34.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Owner.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Models\\Owner.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Owner.cs",
+              "RelativeToolTip": "CatAPI2\\Models\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:22:47.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ICatRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\ICatRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Interfaces\\ICatRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Interfaces\\ICatRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Interfaces\\ICatRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA3wBAAAAAWAAAA",
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Dto\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Dto\\Account\\LoginDto.cs",
+              "RelativeToolTip": "CatAPI2\\Dto\\Account\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T03:40:02.672Z",
+              "WhenOpened": "2024-08-12T14:24:06.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Cat.cs",
+              "RelativeToolTip": "CatAPI2\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:54:56.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240814173446_initial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Migrations\\20240814173446_initial.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Migrations\\20240814173446_initial.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Migrations\\20240814173446_initial.cs",
+              "RelativeToolTip": "CatAPI2\\Migrations\\20240814173446_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T17:34:46.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "Breed.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Breed.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Breed.cs",
               "RelativeDocumentMoniker": "CatAPI2\\Models\\Breed.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Breed.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Breed.cs",
               "RelativeToolTip": "CatAPI2\\Models\\Breed.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:01:03.998Z",
+              "WhenOpened": "2024-08-14T17:22:52.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Owner.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Owner.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Models\\Owner.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Models\\Owner.cs",
-              "RelativeToolTip": "CatAPI2\\Models\\Owner.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:00:42.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Data\\DataContext.cs",
-              "RelativeToolTip": "CatAPI2\\Data\\DataContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T12:56:21.44Z",
+              "DocumentIndex": 15,
+              "Title": "CatAPI2.http",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\CatAPI2.http",
+              "RelativeDocumentMoniker": "CatAPI2\\CatAPI2.http",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\CatAPI2.http",
+              "RelativeToolTip": "CatAPI2\\CatAPI2.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-14T17:33:58.533Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "CatDto.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\CatDto.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Dto\\CatDto.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\CatDto.cs",
-              "RelativeToolTip": "CatAPI2\\Dto\\CatDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\AppUser.cs",
+              "RelativeToolTip": "CatAPI2\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T23:00:43.707Z",
+              "WhenOpened": "2024-08-12T14:34:36.137Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OwnerDto.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\OwnerDto.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Dto\\OwnerDto.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\OwnerDto.cs",
-              "RelativeToolTip": "CatAPI2\\Dto\\OwnerDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:35:48.312Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Program.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Program.cs",
-              "RelativeToolTip": "CatAPI2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "CatAPI2\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2 \u002B Login\\CatAPI\\CatAPI2\\Models\\Portfolio.cs",
+              "RelativeToolTip": "CatAPI2\\Models\\Portfolio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T13:47:02.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Seed.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Seed.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Seed.cs",
-              "RelativeToolTip": "CatAPI2\\Seed.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAqwEcAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T13:23:23.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CountryDto.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\CountryDto.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Dto\\CountryDto.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Dto\\CountryDto.cs",
-              "RelativeToolTip": "CatAPI2\\Dto\\CountryDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:25:55.398Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20240723143414_initialcreate.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Migrations\\20240723143414_initialcreate.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Migrations\\20240723143414_initialcreate.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Migrations\\20240723143414_initialcreate.cs",
-              "RelativeToolTip": "CatAPI2\\Migrations\\20240723143414_initialcreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-23T14:34:15.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CatAPI2.csproj",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj",
-              "RelativeDocumentMoniker": "CatAPI2\\CatAPI2.csproj",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj",
-              "RelativeToolTip": "CatAPI2\\CatAPI2.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-23T12:55:51.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\appsettings.json",
-              "RelativeDocumentMoniker": "CatAPI2\\appsettings.json",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\appsettings.json",
-              "RelativeToolTip": "CatAPI2\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-23T12:51:23.762Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 353,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CatController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\CatController.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\CatController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\CatController.cs",
-              "RelativeToolTip": "CatAPI2\\Controllers\\CatController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAIAwwDsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T03:39:54.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CatRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\CatRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Repository\\CatRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\CatRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Repository\\CatRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAYwBoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T03:40:41.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CountryController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\CountryController.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "CatAPI2\\Controllers\\CountryController.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAEoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:23:24.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CountryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\CountryRepository.cs",
-              "RelativeDocumentMoniker": "CatAPI2\\Repository\\CountryRepository.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\Repository\\CountryRepository.cs",
-              "RelativeToolTip": "CatAPI2\\Repository\\CountryRepository.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAYwBgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T17:20:51.965Z",
+              "WhenOpened": "2024-08-12T14:36:15.093Z",
               "EditorCaption": ""
             }
           ]

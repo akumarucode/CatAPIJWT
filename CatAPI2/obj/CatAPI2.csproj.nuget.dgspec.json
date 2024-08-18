@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\CatAPI2 + Login\\CatAPI\\CatAPI2\\CatAPI2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj": {
+    "C:\\Users\\pc\\source\\repos\\CatAPI2 + Login\\CatAPI\\CatAPI2\\CatAPI2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\CatAPI2 + Login\\CatAPI\\CatAPI2\\CatAPI2.csproj",
         "projectName": "CatAPI2",
-        "projectPath": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\CatAPI2.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\CatAPI2 + Login\\CatAPI\\CatAPI2\\CatAPI2.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\source\\repos\\CatAPI2\\CatAPI2\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\CatAPI2 + Login\\CatAPI\\CatAPI2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,11 +49,19 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -63,7 +71,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

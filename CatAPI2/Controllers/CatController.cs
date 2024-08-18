@@ -3,6 +3,7 @@ using CatAPI2.Dto;
 using CatAPI2.Interfaces;
 using CatAPI2.Models;
 using CatAPI2.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,7 +22,7 @@ namespace CatAPI2.Controllers
             _mapper = mapper;
         }
 
-
+        [Authorize]
         [HttpGet]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Cat>))]
         public IActionResult GetCats()
@@ -38,6 +39,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpGet("{catId}")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Cat))]
         [ProducesResponseType(400)]
         public IActionResult GetCat(int catId)
@@ -54,6 +56,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         public IActionResult CreateCat([FromQuery] int ownerId, [FromQuery] int breedId,[FromBody] CatDto createCat)
@@ -87,6 +90,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpDelete("{catId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
@@ -111,6 +115,7 @@ namespace CatAPI2.Controllers
 
         //UPDATE
         [HttpPut("{catId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]

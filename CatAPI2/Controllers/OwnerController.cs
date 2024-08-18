@@ -3,6 +3,7 @@ using CatAPI2.Dto;
 using CatAPI2.Interfaces;
 using CatAPI2.Models;
 using CatAPI2.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -23,6 +24,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpGet]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Owner>))]
         public IActionResult GetOwners()
         {
@@ -38,6 +40,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpGet("{ownerId}")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Owner))]
         [ProducesResponseType(400)]
         public IActionResult GetOwner(int ownerId)
@@ -55,6 +58,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpGet("{ownerId}/GetCatsByOwners")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Cat))]
         [ProducesResponseType(400)]
 
@@ -77,6 +81,7 @@ namespace CatAPI2.Controllers
 
         //UPDATE
         [HttpPut("{ownerId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
@@ -108,6 +113,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpDelete("{ownerId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
@@ -131,6 +137,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpPost]
+        [Authorize]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         public IActionResult CreateOwner([FromQuery] int countryId, [FromBody] OwnerDto ownerDetails)

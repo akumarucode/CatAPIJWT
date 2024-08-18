@@ -3,6 +3,7 @@ using CatAPI2.Dto;
 using CatAPI2.Interfaces;
 using CatAPI2.Models;
 using CatAPI2.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -22,6 +23,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(IEnumerable<Country>))]
         public IActionResult GetCats()
         {
@@ -37,6 +39,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpGet("{countryId}")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Country))]
         [ProducesResponseType(400)]
         public IActionResult GetCountry(int countryId)
@@ -54,6 +57,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpGet("{countryId}/GetOwnersFromCountry")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Owner))]
         [ProducesResponseType(400)]
 
@@ -73,6 +77,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         public IActionResult CreateCountry([FromBody] CountryDto countryDetails)
@@ -107,6 +112,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpDelete("{countryId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
@@ -130,6 +136,7 @@ namespace CatAPI2.Controllers
 
         //UPDATE
         [HttpPut("{countryId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]

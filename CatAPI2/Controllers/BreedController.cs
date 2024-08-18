@@ -3,6 +3,7 @@ using CatAPI2.Dto;
 using CatAPI2.Interfaces;
 using CatAPI2.Models;
 using CatAPI2.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Diagnostics;
@@ -24,6 +25,7 @@ namespace CatAPI2.Controllers
 
 
         [HttpGet]
+        [Authorize]
         [ProducesResponseType(200,Type = typeof(IEnumerable<Breed>))] 
         public IActionResult GetBreeds()
         {
@@ -38,6 +40,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpGet("{breedId}")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Breed))]
         [ProducesResponseType(400)]
         public IActionResult GetBreed(int breedId)
@@ -84,6 +87,7 @@ namespace CatAPI2.Controllers
         //}
 
         [HttpGet("{breedId}/GetCatsByBreed")]
+        [Authorize]
         [ProducesResponseType(200, Type = typeof(Cat))]
         [ProducesResponseType(400)]
 
@@ -102,7 +106,9 @@ namespace CatAPI2.Controllers
             return Ok(cats);
         }
 
+        
         [HttpPost]
+        [Authorize]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
         public IActionResult CreateBreed([FromBody] BreedDto breedDetails)
@@ -136,6 +142,7 @@ namespace CatAPI2.Controllers
         }
 
         [HttpDelete("{breedId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
@@ -159,6 +166,7 @@ namespace CatAPI2.Controllers
 
         //UPDATE
         [HttpPut("{breedId}")]
+        [Authorize]
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
